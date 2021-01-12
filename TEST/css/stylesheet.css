@@ -1,12 +1,9 @@
-.box {
-  height: 500px;
-  width: 100px;
-  background-color: aquamarine;
+.container h1 {
+  color: red;
+  font-size: 25px;
 }
 
-.box-contents {
-  height: 50px;
-  width: 50px;
-  background-color: azure;
+.container p {
+  color: burlywood;
 }
 /*# sourceMappingURL=stylesheet.css.map */
